@@ -37,8 +37,12 @@ To use this application, run the application, then select an image from your com
 
 Once all the desired edits have been applied to an image, the image can be saved via the "save image" once a name is typed. The destination of the save is the same as the folder the python file is in. If there is no extension in the name, the extension of the original image is used.
 
+## Future Works
+During the development of the project, our group wanted to include an undo feature and resolution scaler in order to give more options to the user of our application. Although they were not able to be included, we plan to come in at a later date and split up the work in order to make these features a reality.
+
 ## Credits 
 Code created by Russell De Vera, Derek In, Gabriel Reyes Tejeda, Samuel Sherrill.
 
 
  Black and White to Color filter accessed via [Image Colorization API](https://deepai.org/machine-learning-model/colorizer).
+ 
